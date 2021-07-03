@@ -1,0 +1,2 @@
+# GameStoreManager
+GameStore API Project

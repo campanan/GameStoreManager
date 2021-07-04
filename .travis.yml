@@ -1,8 +1,4 @@
 dist: xenial
 language: java
-sudo: false
-jdk: openjdk15
-install: true
-cache:
-  directories:
-  - $HOME/
+jdk: openjdk11
+install: 0

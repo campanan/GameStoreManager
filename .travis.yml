@@ -2,3 +2,5 @@ dist: xenial
 language: java
 jdk: openjdk11
 install: true
+before_install:
+  - chmod +x mvnw

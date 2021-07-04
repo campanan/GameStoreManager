@@ -16,7 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfig {
     private static final String BASE_PACKAGE = "com.supera.gamestore";
     private static final String API_TITLE = "Gamestore Manager API";
-    private static final String API_DESCRIPTION = "GameStore Project API - Ecommerce";
+    private static final String API_DESCRIPTION = "GameStore Project API - E-commerce";
     private static final String API_VERSION = "1.0.0";
     private static final String CONTACT_NAME = "Angelo Campana Neto";
     private static final String CONTACT_URL = "https://github.com/campanan";

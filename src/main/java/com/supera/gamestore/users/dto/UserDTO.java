@@ -1,4 +1,4 @@
-package com.supera.gamestore.dto;
+package com.supera.gamestore.users.dto;
 
 
 import lombok.AllArgsConstructor;

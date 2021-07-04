@@ -18,7 +18,7 @@ public class GameController {
     })
     @GetMapping
     public String hello(){
-        return "Hello Gamestore manager";
+        return "GameStore Project";
     }
 
 

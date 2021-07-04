@@ -1,4 +1,4 @@
-package com.supera.gamestore.entity.product;
+package com.supera.gamestore.product;
 
 import java.math.BigDecimal;
 

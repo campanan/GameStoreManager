@@ -1,4 +1,4 @@
-package com.supera.gamestore.entity.users;
+package com.supera.gamestore.users.entity;
 
 
 import javax.persistence.*;

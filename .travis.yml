@@ -1,6 +1,6 @@
 dist: xenial
 language: java
-jdk: openjdk11
+jdk: openjdk14
 install: true
 before_install:
   - chmod +x mvnw

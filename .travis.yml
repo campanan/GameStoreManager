@@ -1,2 +1,8 @@
+dist: xenial
 language: java
-jdk: openjdk15
+sudo: false
+jdk: openjdk11
+install: true
+cache:
+  directories:
+  - $HOME/.m2

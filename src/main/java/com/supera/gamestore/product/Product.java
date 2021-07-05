@@ -11,16 +11,16 @@ public class Product {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public long id;
 
-    @Column(nullable = false, unique = true)
+    @Column(nullable = false)
     public String name;
 
-    @Column(nullable = false, unique = true)
+    @Column(nullable = false)
     public BigDecimal price;
 
-    @Column(nullable = false, unique = true)
+    @Column(nullable = false)
     public short score;
 
-    @Column(nullable = false, unique = true)
+    @Column(nullable = false)
     public String image;
 
     public Product() {

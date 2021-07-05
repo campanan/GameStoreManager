@@ -30,6 +30,7 @@ public class UserDTO {
 
     @NotNull
     @NotEmpty
+    @Size(max=100)
     private String username;
 
     @NotNull
